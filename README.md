@@ -14,4 +14,6 @@ This is a place that I will use to post interesting information for those who wa
 In each lesson, you’ll be given an introduction to a single Markdown concept. Then, you’ll be asked to complete several exercises with that new knowledge."
 
   [Markdown Tutorial](https://www.markdowntutorial.com/)
-
+* In this site we can find the official documentacion of [Puppeteer](https://pptr.dev/), includes the full API Documentacion + guides for using Puppeteer.
+ Puppeteer gives you the ability to launch a headless browser and interact with it just as you would in the browser console.  
+ You can also use the [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/) (CDP) to access the underlying features of the browse
